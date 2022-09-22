@@ -1,5 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
+I'm Aditya Ray Mishra,a sophomore in IIT Mandi.
+
+My Major is Data Science.
+
+I'm interested and currently learning WebDev and ML. 
+
+📫 Reach me at: https://www.linkedin.com/in/aditya-ray-mishra-b75675222/
+
+:computer: mail : aditya.raymishra@gmail.com
 <!--
 **adityaray7/adityaray7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
