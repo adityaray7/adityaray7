@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Aditya Ray Mishra,a sophomore at IIT Mandi.
+I'm Aditya Ray Mishra, sophomore at IIT Mandi.
 
 My Major is Data Science.
 
