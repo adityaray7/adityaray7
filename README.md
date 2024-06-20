@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaray7&theme=ocean_dark&show_icons=true)
 
 ## &#x1f4c8; GitHub Stats
 
 ![adityaray7's Stats](https://github-readme-stats.vercel.app/api?username=adityaray7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![adityaray7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaray7&theme=vue-dark&hide_border=true)
+
 ![adityaray7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaray7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://github.com/adityaray7/python-project-blueprint">
