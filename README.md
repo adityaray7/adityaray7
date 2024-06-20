@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaray7&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaray7&theme=blue_green)
 ## &#x1f4c8; GitHub Stats
 
 ![adityaray7's Stats](https://github-readme-stats.vercel.app/api?username=adityaray7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
