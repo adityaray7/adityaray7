@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/adityaray7/adityaray7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaray7&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/adityaray7/adityaray7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaray7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+![adityaray7's Stats](https://github-readme-stats.vercel.app/api?username=adityaray7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![adityaray7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaray7&theme=vue-dark&hide_border=true)
+![adityaray7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaray7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <a href="https://github.com/adityaray7/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityaray7&repo=GenAIGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
