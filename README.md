@@ -1,10 +1,7 @@
-Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/adityaray7/adityaray7/main/wave.gif" width="30px" height="30px" />
 
-I'm Aditya Ray Mishra, sophomore at IIT Mandi.
+My name is Aditya and I'm a sfinal year student at IIT Mandi. I'm from India.
 
-My Major is Data Science.
-
-I'm interested and currently learning WebDev and ML. 
 
 📫 Reach me at: https://www.linkedin.com/in/aditya-ray-mishra-b75675222/
 
