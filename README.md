@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/adityaray7/adityaray7/main/wave.gif" width="30px" height="30px" />
 
-My name is Aditya and I'm a sfinal year student at IIT Mandi. I'm from India.
+My name is Aditya and I'm a sfinal year student at IIT Mandi.
 
 
 📫 Reach me at: https://www.linkedin.com/in/aditya-ray-mishra-b75675222/
