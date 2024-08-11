@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/adityaray7/adityaray7/main/wave.gif" width="30px" height="30px" />
 
-My name is Aditya and I'm a sfinal year student at IIT Mandi.
+Hey There! I'm a final year undergrad pursuing Data Science at IIT Mandi. I have strong interests in the fields of AI and ML and I keep myself updated with the latest developments in the field. I am an AI and ML enthusiast with extensive experience in developing innovative solutions. Skilled in data analysis and model optimization, I focus on creating impactful applications that advance technology. Passionate about exploring new methodologies, I aim to drive progress in the field and deliver transformative results.
+Apart from this I'm an astronomy enthusiast and a passionate robotics geek.
 
 
 📫 Reach me at: https://www.linkedin.com/in/aditya-ray-mishra-b75675222/
